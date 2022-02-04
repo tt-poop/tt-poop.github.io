@@ -1,0 +1,185 @@
+*{
+    box-sizing: border-box;
+}
+.bg-s5{
+    position: relative;
+    height: 600px;
+    width: 100%;
+    background-color: #F97B55;
+    z-index: -1;
+}
+.box-s5-1{
+    position: relative;
+    border: 10px solid #fff;
+    height: 250px;
+    width: 250px;
+    background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-1-lon.jpg);
+    border-radius: 100%;
+    z-index: 1;
+    margin-top: -33rem;
+    margin-left: 8rem;
+    box-shadow: 5px 1px 20px 1px #696969;
+}
+.box-s5-2{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-2-lon.jpg);
+    border-radius: 100%;
+    z-index: 1;
+    margin-top: -15rem;
+    margin-right: 8rem;
+    float:right;
+    box-shadow: 5px 1px 20px 1px #696969;
+}
+.box-s5-3{
+    position: relative;
+    height: 400px;
+    width: 400px;
+    background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-3-lon.jpg);
+    border-radius: 100%;
+    z-index: 2;
+    margin-top: -3rem;
+    margin-left: 10rem;
+    box-shadow: 5px 1px 20px 1px #696969;
+}
+.tron-1{
+    background:none;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border: 20px solid #ffa162;
+    float: right;
+    margin-right: 15rem;
+    margin-top: -17rem;
+}
+.tron-2{
+    position: relative;
+    background:none;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border: 20px solid #fd761c;
+    margin-left: 47rem;
+    margin-top: -3rem;
+    z-index: 4;
+}
+.box-s5-4{
+    position: relative;
+    background-color: #3A656D;
+    width: 400px;
+    height: 270px;
+    border-radius: 10px;
+    margin-left: 25rem;
+    margin-top: -15rem;
+    padding: 25px;
+    color: #fff;
+    z-index: 3;
+
+}
+.box-s5-5 {
+    position: relative;
+    border: 10px solid #fff;
+    height: 250px;
+    width: 250px;
+    background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-5-lon.jpg);
+    border-radius: 100%;
+    z-index: 4;
+    margin-left: 5rem;
+    box-shadow: 5px 1px 20px 1px #696969;
+    margin-top: -10rem;
+}
+.button-s5{
+    height: 30px;
+    width: 100px;
+    background: none;
+    border: 1px solid #fff;
+    color: #fff;
+}
+@media only screen and (max-width: 1000px) {
+    .bg-s5{
+        position: relative;
+        height: 600px;
+        width: 100%;
+        background-color: #F97B55;
+        z-index: -1;
+    }
+    .box-s5-1{
+        position: relative;
+        border: 10px solid #fff;
+        height: 100px;
+        width: 100px;
+        background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-1-nho.jpg);
+        border-radius: 100%;
+        margin-left: 10px;
+        z-index: 1;
+        box-shadow: 5px 1px 20px 1px #696969;
+    }
+    .box-s5-2{
+        position: relative;
+        height: 100px;
+        width: 100px;
+        background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-2-nho.jpg);
+        border-radius: 100%;
+        z-index: 1;
+        margin-right: 10px;
+        margin-top: -100px;
+        float:right;
+        box-shadow: 5px 1px 20px 1px #696969;
+    }
+    .box-s5-3{
+        position: relative;
+        height: 200px;
+        width: 200px;
+        background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-3-nho.jpg);
+        border-radius: 100%;
+        margin-left: 10px;
+        margin-top: -25px;
+        z-index: 2;
+        box-shadow: 5px 1px 20px 1px #696969;
+    }
+    .tron-1{
+        background: none;
+        height: 50px;
+        width: 50px;
+        border-radius: 100%;
+        border: 10px solid #ffa162;
+        float: right;
+        margin-top: -120px;
+        margin-right: 100px;
+    }
+    .tron-2{
+        position: relative;
+    background: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: 10px solid #fd761c;
+    z-index: 4;
+    margin-top: -30px;
+    margin-right: 50px;
+    float: right;
+    }
+    .box-s5-4 {
+        position: relative;
+        background-color: #3A656D;
+        width: 200px;
+        height: 500px;
+        border-radius: 10px;
+        margin-top: -110px;
+        z-index: 3;
+        margin-left: 120px;
+    }
+    .box-s5-5{
+        position: relative;
+        border: 10px solid #fff;
+        height: 100px;
+        width: 100px;
+        background-image: url(/FINAL_EXAM_CS312M_9H30_13012021_TONGXUANTRUNG_8080/images/section5/box-s5-5-nho.jpg);
+        border-radius: 100%;
+        margin-left: 10px;
+        margin-top: -30px;
+        z-index: 4;
+        box-shadow: 5px 1px 20px 1px #696969;
+    }
+}
